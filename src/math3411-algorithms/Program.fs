@@ -7,6 +7,8 @@ open FermatFactorisation
 open KraftMcMillanCoefficient
 open RSA
 open ISBN
+open MorseCode
+open BaseBAlgorithm
 
 
 // RSA Encryption
@@ -64,3 +66,11 @@ printfn "%A" (encodeFromMarkovSource ['1'; '2'; '3'] 2 (array2D [|[|5.0m/12.0m; 
 
 // Pseudo Prime Test
 printfn "%A" (pseudoPrimeTest 65 2)
+
+
+// Morse Code
+playAsMorseCode "This is a test of the Morse Code player."
+
+
+// Base B Algorithm
+printfn "%A" (baseBAlgorithm 13 2)

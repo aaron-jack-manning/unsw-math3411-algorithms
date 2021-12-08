@@ -16,6 +16,8 @@
     <Compile Include="ShannonFanoCoding.fs" />
     <Compile Include="ArithmeticCoding.fs" />
     <Compile Include="HuffmanCoding.fs" />
+    <Compile Include="MorseCode.fs" />
+    <Compile Include="BaseBAlgorithm.fs" />
     <Compile Include="Program.fs" />
   </ItemGroup>
 

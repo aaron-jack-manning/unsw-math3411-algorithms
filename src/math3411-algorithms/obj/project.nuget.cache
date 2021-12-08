@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/o6vNZ5/X4nKkoKmH0Wd/2s9BQldZMOYMNeI0IT83BERJSAn/xkCvpEAqQtDTy046IkgeQrz3ARzdDQvslbUog==",
+  "dgSpecHash": "yw0Ak5R1k/i3W1cqYWxqFFfvPaekHg0JMmc422vVGjQVRnD0JkAjUzpq2SBlyH80L44gqVpxMSHXOSnDZOSpQg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\aaron\\My Drive\\Side Projects\\Project Files\\Programming Projects\\UNSW MATH3411 Algorithms (F#)\\math3411-algorithms\\math3411-algorithms.fsproj",
+  "projectFilePath": "C:\\Users\\aaron\\My Drive\\Side Projects\\Project Files\\Programming Projects\\UNSW MATH3411 Algorithms (F#)\\src\\math3411-algorithms\\math3411-algorithms.fsproj",
   "expectedPackageFiles": [
     "C:\\Users\\aaron\\.nuget\\packages\\fsharp.core\\6.0.1\\fsharp.core.6.0.1.nupkg.sha512"
   ],
